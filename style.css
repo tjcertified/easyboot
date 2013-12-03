@@ -1,0 +1,21 @@
+/*
+Theme Name: EasyBootstrap
+Theme URI: http://www.thomasjwilliams.net/wordpress-bootstrap-theme
+Description: A practice theme built on top of bootstrap
+Author: Thomas Williams
+Author URI: http://thomasjwilliams.net/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Jumbotron" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/jumbotron/index.html
+*/
+
+@import url('bootstrap/css/bootstrap.css');
+body {
+  padding-top:60px;
+  padding-bottom: 40px;
+}
+

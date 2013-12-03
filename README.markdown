@@ -1,0 +1,2 @@
+EasyBoot - Bootstrap Wordpress Theme
+===============
